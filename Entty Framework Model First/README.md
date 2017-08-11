@@ -14,8 +14,8 @@
 >Follow the next steps of the wizzard
 ![Select Generate fron database](https://www.codeproject.com/KB/database/426790/image006.png)
 ![Select MySql Database](https://www.codeproject.com/KB/database/426790/image007.png)
-if the MySql Database is not available see this video:
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=VT38Rw86v2M)
+>if the MySql Database is not available see this video:
+![![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=VT38Rw86v2M)
 ![Put your credentials](https://www.codeproject.com/KB/database/426790/image008.png)
 ![Select all tables](https://www.codeproject.co/mKB/database/426790/image009.png)
 
