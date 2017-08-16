@@ -1,4 +1,4 @@
-﻿# Entity Framework Model First Example
+﻿# Entity Framework Data Base First Example
 
 ## Steps:
 -Install xampp with mysql and run the following services:
